@@ -1,5 +1,5 @@
 ## ReactJS based Web Application for an Admin Dashboard
-This is a code repository of a React.js based web app for an admin dashboard. it includes one Dashboard, Three Pages, Four Apps, and Seven fully functional charts.
+This is a code repository of a React.js based web app for an admin dashboard. It includes one Dashboard, Three Pages, Four Apps, and Seven fully functional charts.
 This application is currently hosted at [Netlify](https://amazon-admin-dashboard.netlify.app).
 
 ### Key Stacks
