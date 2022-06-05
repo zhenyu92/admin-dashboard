@@ -7,7 +7,7 @@ This application is currently hosted at [Netlify](https://amazon-admin-dashboard
 2. Advance State Management using React Context API
 3. Syncfusion - World's Best UI Component Suite for Building Powerful Web, Desktop, and Mobile Apps
 
-### Scresnshot
+### Screenshot
 ![image](https://github.com/zhenyu92/Amazon_admin_dashboard/blob/main/screenshot.JPG)
 
 ### Credits
